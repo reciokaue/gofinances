@@ -1,6 +1,6 @@
 <div id="top">
   <a href="https://github.com/reciokaue/gofinances">
-    <img src="./readme_images/Header.png" alt="Brief project design" style="object-fit: contain" width="100%" height="350px">
+    <img src="./readme_images/Cover.png" alt="Brief project design" style="object-fit: contain" width="100%">
   </a>
 </div>
 
@@ -33,14 +33,14 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<!-- <details> -->
-  <!-- <summary>Table of Contents</summary>
+<details>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#figma-prototype-design">Project Design</a></li>
+        <!-- <li><a href="#figma-prototype-design">Project Design</a></li> -->
       </ul>
     </li>
     <li>
@@ -53,50 +53,17 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#license">License</a></li>
-  </ol> -->
-<!-- </details> -->
-
-
-<!-- need english version -->
+  </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 # GoFinances
 
-<!-- O Savepass é um aplicativo para controle de senhas, com design simples e de fácil entendimento e usabilidade, desenvolvido para todas as faixas etárias com intuito de simplificar a vida do usuário e centralizar todas as senhas em um único lugar
+Olá bom dia a todos, venho aqui mostrar um pouco do que estou aprendendo no curso IGNITE da Rocketseat.
+Este é um aplicativo de controle de finanças chamado de GoFinances, nele você pode adicionar seus gastos e seus ganhos, gerenciar de forma rápida e fácil podendo ver todas as transações e analisar o gasto por categoria mensalmente. Além disso o app também conta com login social do google e da apple caso seja usuário de ios, podendo assim ter mais de uma conta no mesmo aparelho sem misturar os gastos
 
-Desenvolvido com Expo e juntamente ao React Native para desenvolver aos dois sistemas operacionais simultaneamente, e utilizando Typescript em todo o projeto visando a organização e manutenção de código -->
-
-<!-- ### Learnings
-  * Tratamento de strings e arrays com javascript 
-  * Validação de formulários com Yup 
-  * Gerir formulários com useForm( ), melhora na performance em formulários diminuindo a taxa de vezes em que é atualizada a interface 
-  * Library do AsyncStorage para guardar informações do usuário 
-  * Utilização de Alerts personalizados com o AwesomeAlerts 
-  * Utilização de validação por impressão digital 
-
-### New Features
-  * Detalhe da senha 
-  * Opções de editar e excluir a senha 
-  * Telas de apresentação 
-  * Senha pin para o aplicativo 
-  * Melhorias no design e experiencia do usuário 
-
-# Figma prototype design
-
-<div align="center" style="height: 400px">
-  <a href="https://www.figma.com/file/8WbWCVM0LFHsgHRk3nmfbO/Savepass">
-      <img src="./readme_images/Mockup.png" alt="Brief project design" style="object-fit: contain" width="100%">
-  </a>
-</div>
-<a href="https://www.figma.com/file/8WbWCVM0LFHsgHRk3nmfbO/Savepass">click here to go to figma project
-</a>
-
----
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<!--  -->
 ### Built With
 
 * [React.js](https://reactjs.org/)
@@ -105,7 +72,6 @@ Desenvolvido com Expo e juntamente ao React Native para desenvolver aos dois sis
 * [Javascript](https://reactnative.dev)
 * [Typescript](https://www.typescriptlang.org)
 
-<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 ## Getting Started

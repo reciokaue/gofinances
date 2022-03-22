@@ -150,7 +150,7 @@ export function Register(){
             <CategorySelectButton title={category.name} onPress={handleOpenModal}/>
           </Fields>
 
-          <Button onPress={clearData} title="Clear data"/>
+          {/* <Button onPress={clearData} title="Clear data"/> */}
           <Button onPress={handleSubmit(handleRegister)} title="Enviar"/>
         </Form>
         <Modal visible={modalOpen}>
